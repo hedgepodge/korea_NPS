@@ -1,7 +1,7 @@
 # NPS
 National Patient Sample data by South Korea's Health Insurance Review &amp; Assessment Service
 
-### [`import_nps.r`](https://github.com/hyung1118/korea_NPS/blob/master/import_nps.r)
+### [`import_nps.r`](https://github.com/hedgepodge/korea_NPS/blob/master/import_nps.r)
 Fuction to import NPS data to the global environment in R.
 input: directory
 output: nps_1#_$ where # is the last digit of the year and $ is the first digit of the table name.
