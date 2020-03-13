@@ -6,8 +6,6 @@ Fuction to import NPS data to the global environment in R.
 input: directory
 output: nps_1#_$ where # is the last digit of the year and $ is the first digit of the table name.
 
-[`readr`](https://github.com/tidyverse/readr)
-
 ### Example. 
 ``` r
 import_nps("~/NPS-2014")
